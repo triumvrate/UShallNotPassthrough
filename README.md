@@ -2,11 +2,11 @@
 
 This is a 2-player co-op game.
 
-The 1st player uses the Oculus headset
-  - Install .apk on Quest 1 or 2
+The 1st player uses the Meta headset
+  - Install .apk on Meta Quest 1 or 2 (from the latest release)
   - Run UShallNotPassthrough app on the headset
-  - 
-The 2nd player uses an instructions manual: https://drive.google.com/file/d/1Tp2noMx9-9BxA_8s4lrPk0D4HxmpEyw0/view?usp=sharing
+
+The 2nd player uses the instructions manual (from the latest release)
 
 The players must read the instructions (player 1 reads the instructions in the game, player 2 reads the instructions manual) before starting.
 
